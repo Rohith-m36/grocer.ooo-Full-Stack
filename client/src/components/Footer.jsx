@@ -7,7 +7,7 @@ const Footer = () => {
         
         {/* Copyright Text */}
         <p className="text-sm tracking-wide uppercase text-gray-300">
-          © 2024 All Rights Reserved.
+          © 2025 All Rights Reserved.
         </p>
 
         {/* Social Media Icons */}
